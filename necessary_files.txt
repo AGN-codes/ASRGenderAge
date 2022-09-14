@@ -1,0 +1,18 @@
+necessary files are:
+
+ABOT.py
+ACONVERTER.py
+AMODEL.py
+GMODEL.py
+utils.py
+
+results folder
+age_regression-mfcc folder
+
+LICENSE_4AE for legal reasons
+
+-----------------
+files that need telegram bot token or file path:
+
+token: ABOT.py
+path: AMODEL.py
